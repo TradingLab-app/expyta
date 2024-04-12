@@ -9,8 +9,8 @@
 
 
 -   Free software: MIT License
--   Documentation: https://ithomaslin.github.io/expyta
-    
+-   Documentation: https://github.com/TradingLab-app/expyta
+
 
 ## Features
 

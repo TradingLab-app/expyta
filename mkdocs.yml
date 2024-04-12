@@ -1,10 +1,10 @@
 site_name: expyta
 site_description: Expyta is a streamlined Python library that provides unified access to Taiwanese stock exchange APIs., designed for traders and developers.
-site_author: ithomaslin
-site_url: https://ithomaslin.github.io/expyta
-repo_url: https://github.com/ithomaslin/expyta
+site_author: TradingLab-app
+site_url: https://tradinglab-app.github.io/expyta/
+repo_url: https://github.com/TradingLab-app/expyta
 
-copyright: "Copyright &copy; 2024 - 2024 Thomas Lin"
+copyright: "Copyright &copy; 2024 - 2024 TradingLab"
 
 theme:
     palette:
@@ -51,7 +51,7 @@ plugins:
           allow_errors: false
           ignore: ["conf.py"]
           execute_ignore: ["*ignore.ipynb"]
-          
+
 markdown_extensions:
     - admonition
     - abbr
@@ -78,7 +78,7 @@ nav:
     - Contributing: contributing.md
     - FAQ: faq.md
     - Changelog: changelog.md
-    - Report Issues: https://github.com/ithomaslin/expyta/issues
+    - Report Issues: https://github.com/TradingLab-app/expyta/issues
     - Examples:
         - examples/intro.ipynb
     - API Reference:
